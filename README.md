@@ -19,7 +19,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [https://gentle-crumble-1464aa.netlify.app/](https://gentle-crumble-1464aa.netlify.app/)
+- Live Site URL: [https://famous-axolotl-532c62.netlify.app/](https://famous-axolotl-532c62.netlify.app/)
 
 ## My process
 
