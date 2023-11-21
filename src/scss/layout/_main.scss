@@ -87,6 +87,15 @@
             outline: 1px solid var(--white);
           }
         }
+
+        .main__offers__offer__info {
+          &__info-piece {
+            border-bottom: 2px solid var(--light-grayish-blue);
+            &:first-child {
+              border-top: 2px solid var(--light-grayish-blue);
+            }
+          }
+        }
       }
 
       h2 {
