@@ -36,8 +36,7 @@ function App() {
 
   function enterPressed(event) {
     if (event.key === "Enter") {
-
-      toggleClicked()
+      toggleClicked();
     }
   }
 
@@ -47,7 +46,7 @@ function App() {
       <div className="main__options">
         <div className="main__options__option">Annually</div>
         <div
-          tabIndex={"1"}
+          tabIndex={"0"}
           className={`main__options__toggle ${isMonthly && "clicked"}`}
           onClick={toggleClicked}
           onKeyDown={enterPressed}
